@@ -1,0 +1,1 @@
+.selectorTagsWrapper{display:flex;flex-direction:row;flex-wrap:wrap}.selectorTagsWrapper>*{background-color:#fff3;padding:1px 3px;margin:2px 5px;border-radius:7px}.selectorTagsWrapper>*:hover{background-color:#fffa}.selectorTagsWrapper>*.active{background-color:#fff8}
